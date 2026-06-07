@@ -10,6 +10,13 @@ trends, risk patterns, and high-risk zones using SARIMA and LSTM.
 🎯 **Use Case:** Public safety analytics and risk prediction  
 
 ## 📂 Repository Structure
+├── src/
+├── notebooks/
+│   └── road_accident_forecasting.ipynb
+├── models/
+├── Visuals/
+├── requirements.txt
+└── README.md
 ## 🧪 What I Built
 - SARIMA and LSTM forecasting models on 117k+ records
 - Clustering techniques to detect high-risk geographic zones
