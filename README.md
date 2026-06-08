@@ -97,4 +97,4 @@ jupyter notebook notebooks/Big_data_Harshaa_Hariharan.ipynb
 ## 🙋‍♀️ Author
 **Harshaa Hariharan** — ML Engineer & Data Scientist  
 LinkedIn: [linkedin.com/in/harshaa-harshini](https://www.linkedin.com/in/harshaa-harshini-64522530hbc329)  
-Portfolio: (coming soon)
+Portfolio: (https://harshaa329.github.io)
